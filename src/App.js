@@ -23,9 +23,10 @@ function App() {
   
   return (
     <div className="App">
+    <br/>
       <header className="App-header">
     <a href="https://link.coupang.com/a/0flOq" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667338?subId=&traceId=V0-301-bae0f72e5e59e45f-I667338&w=320&h=50" alt=""/></a>
-        <br/><br/><br/>
+        <br/><br/>
           <a className = "mainfont " >
             나만의 힐링스팟
           </a>
@@ -37,10 +38,10 @@ function App() {
             </button>
           </Link>
           <br/> <br/>
-              <a className = "desc">CUBEE</a>
            <a href="https://link.coupang.com/a/0fiSu" target="_blank" referrerpolicy="unsafe-url">
                    <img src="https://ads-partners.coupang.com/banners/667327?subId=&traceId=V0-301-371ae01f4226dec2-I667327&w=320&h=50" alt=""/>
             </a>
+            <a className = "desc">CUBEE</a>
             <br/>
 
       </header>
