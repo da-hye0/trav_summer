@@ -216,8 +216,7 @@ function Question(){
                          
                           <br/>
                               <a className = "desc">CUBEE</a>
-                      
-                            <a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a>
+                     
                            <br/><br/>
                       </header>
 
@@ -229,7 +228,8 @@ function Question(){
 
                 </>
                 )}
-
+               <a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a>
+                  <br/>
             </div>
       </header>
     </div>
