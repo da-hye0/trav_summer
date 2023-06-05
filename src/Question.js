@@ -113,7 +113,10 @@ function Question(){
                         {id.id == qus ? (
                           
                            <div >
-                             
+                             <head>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5741659942476200"
+     crossorigin="anonymous"></script>
+                            </head>
                              <div className="qusBox">
                                 <a className = "font"  key={id.id}>
                                     {id.q} <br/><br/><br/>
@@ -157,6 +160,10 @@ function Question(){
                         {id.id == rst ?(
                           
                           <div>
+                            <head>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5741659942476200"
+     crossorigin="anonymous"></script>
+                            </head>
                             <br/><br/>
                             <div>
                                   { RstImage.map((k) =>
