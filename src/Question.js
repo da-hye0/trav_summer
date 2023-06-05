@@ -185,7 +185,7 @@ function Question(){
                               <a className = "desc"> • {id.desc[2]}  <br/><br/> </a>
                               <a className = "desc"> • {id.desc[3]}  <br/><br/> </a>
                             <br/><br/> 
-                                 <a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a><br/>
+                                 
                             <a className = "desc">CUBEE</a>
                             <br/> <br/>
                                
@@ -216,8 +216,6 @@ function Question(){
                          
                           <br/>
                               <a className = "desc">CUBEE</a>
-                     
-                           <br/><br/>
                       </header>
 
                   </div>
@@ -229,7 +227,7 @@ function Question(){
                 </>
                 )}
                <a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a>
-                  <br/>
+                  <br/><br/>
             </div>
       </header>
     </div>
