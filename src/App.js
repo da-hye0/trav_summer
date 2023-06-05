@@ -23,7 +23,6 @@ function App() {
   
   return (
     <div className="App">
-    <br/>
       <header className="App-header">
     <a href="https://link.coupang.com/a/0flOq" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667338?subId=&traceId=V0-301-bae0f72e5e59e45f-I667338&w=320&h=50" alt=""/></a>
         <br/><br/>
