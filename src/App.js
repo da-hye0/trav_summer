@@ -37,10 +37,11 @@ function App() {
             </button>
           </Link>
           <br/> <br/>
+             <a className = "desc">CUBEE</a>
            <a href="https://link.coupang.com/a/0fiSu" target="_blank" referrerpolicy="unsafe-url">
                    <img src="https://ads-partners.coupang.com/banners/667327?subId=&traceId=V0-301-371ae01f4226dec2-I667327&w=320&h=50" alt=""/>
             </a>
-            <a className = "desc">CUBEE</a>
+           
             <br/>
 
       </header>
