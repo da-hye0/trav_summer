@@ -93,7 +93,11 @@ function Question(){
   return(   
     <div className="App">
       <header className="App-header">
-
+     <a href="https://link.coupang.com/a/0flOq" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667338?subId=&traceId=V0-301-bae0f72e5e59e45f-I667338&w=320&h=50" alt=""/></a>
+          <head>
+              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5741659942476200"
+     crossorigin="anonymous"></script>
+          </head>
           {qus<11?(
               <>
               <div calssName = "containerBox">
@@ -113,11 +117,7 @@ function Question(){
                         {id.id == qus ? (
                           
                            <div >
-                         <a href="https://link.coupang.com/a/0flOq" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667338?subId=&traceId=V0-301-bae0f72e5e59e45f-I667338&w=320&h=50" alt=""/></a>
-                             <head>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5741659942476200"
-     crossorigin="anonymous"></script>
-                            </head>
+                        
                              <div className="qusBox">
                                 <a className = "font"  key={id.id}>
                                     {id.q} <br/><br/><br/>
@@ -144,7 +144,6 @@ function Question(){
                               <button className = "button" onClick={()=> minusQus(id.type,id.score) }>
                                   {id.a[1]}
                               </button>
-<a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a>
 <br/><br/>
                               
                           </div>
@@ -163,11 +162,7 @@ function Question(){
                         {id.id == rst ?(
                           
                           <div>
-                         <a href="https://link.coupang.com/a/0flOq" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667338?subId=&traceId=V0-301-bae0f72e5e59e45f-I667338&w=320&h=50" alt=""/></a>
-                            <head>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5741659942476200"
-     crossorigin="anonymous"></script>
-                            </head>
+                        
                             <br/><br/>
                             <div>
                                   { RstImage.map((k) =>
@@ -191,7 +186,7 @@ function Question(){
                             <br/><br/> <br/>
                             <a className = "desc">CUBEE</a>
                             <br/> <br/>
-                               <a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a><br/> <br/> <br/> 
+                               <br/> <br/> 
                           </div> 
                           
                         ):( <> </> )}
@@ -221,7 +216,7 @@ function Question(){
                               <a className = "desc">CUBEE</a>
                          
                             <a href="https://link.coupang.com/a/0fmwN" target="_blank" referrerpolicy="unsafe-url"><img src="https://ads-partners.coupang.com/banners/667353?subId=&traceId=V0-301-5a8c79a76485eb21-I667353&w=320&h=50" alt=""/></a>
-                           <br/>
+                           <br/><br/> <br/>
                       </header>
                   </div>
                   </>
